@@ -37,4 +37,6 @@ Le programme utilise PreparedStatement pour éviter les attaques par injection S
 
 ![recherche](https://github.com/sana7867/java-jdbc/assets/147515885/1c61a171-ed09-4107-b093-dd88151fc4fb)
 
+![re](https://github.com/sana7867/java-jdbc/assets/147515885/3a700ab5-7636-4334-93a9-407a8edd5934)
+
 ![supprimer](https://github.com/sana7867/java-jdbc/assets/147515885/a220fe60-9ffd-410c-8aea-0281855a5f57)
