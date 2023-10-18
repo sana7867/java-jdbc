@@ -1,8 +1,7 @@
 # java-jdbc
  des exos en java-jdbc
  
- #  une application Java qui gère des clients et des services, en utilisant une base de données sous-jacente. Voici un résumé des principales fonctionnalités et composants du programme :
-
+ #  une application Java qui gère des clients et des services, en utilisant une base de données :
 Interface utilisateur :
 
 L'application utilise une interface utilisateur graphique (GUI) Swing pour interagir avec les utilisateurs.
